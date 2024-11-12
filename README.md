@@ -16,19 +16,19 @@
 <p><strong>Số điện thoại:</strong> 0123 456 789</p>
 <p><strong>Email:</strong> <a href="mailto:nguyenvana@example.com">nguyenvana@example.com</a></p>
 <p><strong>Ảnh:</strong></p>
-<img src="profile.jpg" alt="Ảnh cá nhân" width="150" height="200">
+<img src="imagess/profile.jpg.jpg" alt="Ảnh cá nhân" width="150" height="200">
 
 <!-- Học vấn -->
 <h2>Học vấn</h2>
 <h3>Trường Đại học ABC</h3>
 <p>Chuyên ngành: Công nghệ Thông tin</p>
-<p>Thời gian: 2015 - 2019</p>
+<p>Thời gian: 2023 - Hiện tại</p>
 
 <!-- Bằng cấp -->
 <h2>Bằng cấp</h2>
 <h3>Chứng chỉ lập trình viên quốc tế</h3>
 <p>Đơn vị cấp: Tổ chức XYZ</p>
-<p>Thời gian cấp: 2020</p>
+<p>Thời gian cấp: 2023</p>
 
 <!-- Kỹ năng -->
 <h2>Kỹ năng</h2>
@@ -41,8 +41,8 @@
 <!-- Kinh nghiệm làm việc -->
 <h2>Kinh nghiệm làm việc</h2>
 <h3>Công ty XYZ</h3>
-<h4>Vị trí: Lập trình viên Frontend</h4>
-<p>Thời gian: 2020 - Hiện tại</p>
+<h4>Vị trí: Lập trình viên Backend</h4>
+<p>Thời gian: 2023 - Hiện tại</p>
 <p>Mô tả công việc: Tham gia phát triển và tối ưu hóa giao diện người dùng cho các dự án website thương mại điện tử.</p>
 
 <!-- Định hướng phát triển cá nhân -->
